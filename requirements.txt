@@ -1,0 +1,14 @@
+#Requirements to create our BW25 environment
+#python==3.11
+jupyterlab==4.2.5
+bw2io==0.9.dev38
+bw2calc==2.0.dev22
+bw2data==4.0.dev56
+bw2analyzer==0.11.7
+stats_arrays==0.7
+ecoinvent_interface==2.4.1
+matplotlib
+numpy
+pandas
+
+
