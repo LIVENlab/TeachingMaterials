@@ -29,7 +29,10 @@ This will create a new environment called ricse_bw25. To activate it, run the fo
 ```
 conda activate ricse_bw25
 ```
-**If you have a problem with the recognition of the conda commands after you activate the env, just use the anaconda navigator to open the anaconda prompt of ricse_bw25.**
+**If you have a problem with the recognition of the conda commands after you activate the env, just use the anaconda navigator to open the anaconda prompt of ricse_bw25. Alternatively you can reinstall Jupter notebook with pip**
+```
+pip3 install notebook
+```
 
 As we are using a [Jupyter Notebook](https://jupyter.org/), you do not necessarily need to install [PyCharm](https://www.jetbrains.com/pycharm/), but you can do so if you want to, as PyCharm allows you to work with Jupyer Notebooks. Remember that you can get a free professional license for PyCharm(that will allow you to use Jupyter Notebooks inside) if you are a student [here](https://www.jetbrains.com/community/education/#students).
 
