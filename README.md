@@ -5,7 +5,7 @@ It is prepared by Cristina Madrid (cristina.madrid@uab.cat).
 Please leave your comments and suggestions in the [Issues](https://github.com/LIVENlab/TeachingMaterials/issues) section.
 
 # Installing Brigthway2
-As indicated in the BW2 installation site, you first need to install a distribution of python. In this case we will use miniconda:  https://docs.brightway.dev/en/latest/content/installation/index.html
+As indicated in the BW2 installation site, you first need to install a distribution of python. In this case we will use Anaconda:  https://docs.brightway.dev/en/latest/content/installation/index.html
 
 As recommended by the BW25 community, we will update conda and install the [libmamba](https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community) solver in the base environment. This is done by introducing the following commands in the anaconda prompt:
 
